@@ -1,6 +1,7 @@
 # todo_app
 
-![1](https://user-images.githubusercontent.com/86397791/153675525-908074f4-3d3b-4e8c-8c58-22829d144bb2.png) ![2](https://user-images.githubusercontent.com/86397791/153675558-29c31c74-4796-4111-ba38-5059de5ab81a.png) ![3](https://user-images.githubusercontent.com/86397791/153675570-084dc8d1-83c5-470e-a7ed-c10b9d8d59d3.png)
+![1](https://user-images.githubusercontent.com/86397791/153675842-5302335b-e016-4255-8b14-3dcca80287db.png) ![3](https://user-images.githubusercontent.com/86397791/153675870-ba846a8b-9d7c-4a0d-994e-de37fc73c6ac.png) ![2](https://user-images.githubusercontent.com/86397791/153675902-7beefe6e-c030-4e70-8491-82499bc1411c.png)
+
 
 
 
